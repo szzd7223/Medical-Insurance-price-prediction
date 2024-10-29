@@ -69,9 +69,11 @@ cd  Medical-Insurance-price-prediction
 ```bash
 cd backend
 ```
-2. Install the required Python packages:
+2. Install the dependencies:
 ```bash
 pip install -r requirements.txt
+
+npm install
 ```
 3. Run the backend server:
 ```bash
